@@ -191,7 +191,3 @@ It simulates how predictive analytics can reduce downtime and improve operationa
 
 ---
 
-## 👨‍💻 Author
-
-Rithvik Goud Mushkam
-Machine Learning & Industrial AI Enthusiast
